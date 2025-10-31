@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1761873296338",
+          "name": "神仙小站",
+          "url": "https://bt.079300.xyz/",
+          "description": "神仙小站随记",
+          "icon": ""
         }
       ]
     },
@@ -83,6 +90,13 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        },
+        {
+          "id": "site-1761873224378",
+          "name": "Google Gemini",
+          "url": "https://gemini.google.com/app",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -441,6 +455,13 @@ export const mockData = {
           "url": "https://www.zhihu.com",
           "description": "知识问答社区",
           "icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='black'%3E%3Cpath d='M8 0C3.58 0 0 3.58 0 8a8 8 0 005.47 7.59c.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.01.08-2.11 0 0 .67-.21 2.2.82A7.65 7.65 0 018 4.58c.68.003 1.36.092 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.91.08 2.11.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z'/%3E%3C/svg%3E"
+        },
+        {
+          "id": "site-1761873128747",
+          "name": "游手好贤的TV",
+          "url": "https://tv.0793.eu.org",
+          "description": "游手好贤的自建TV",
+          "icon": ""
         }
       ]
     },
@@ -481,7 +502,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "贤大仙的导航🐱",
-  "_fileSha": "df2abb7287a8f9a89adef364ffa16d1f1ac1d0d6",
-  "search": "google"
+  "title": "贤大仙的导航🐱"
 }
