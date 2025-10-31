@@ -461,7 +461,7 @@ export const mockData = {
           "name": "游手好贤的TV",
           "url": "https://tv.0793.eu.org",
           "description": "游手好贤的自建TV",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/tv.0793.eu.org"
         }
       ]
     },
