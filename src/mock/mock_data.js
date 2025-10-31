@@ -46,7 +46,42 @@ export const mockData = {
           "name": "神仙小站",
           "url": "https://bt.079300.xyz/",
           "description": "神仙小站随记",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/bt.079300.xyz"
+        },
+        {
+          "id": "site-1761875229612",
+          "name": "大盘云图",
+          "url": "https://dapanyuntu.com/",
+          "description": "大盘走势，尽在掌握",
+          "icon": "https://www.faviconextractor.com/favicon/dapanyuntu.com"
+        },
+        {
+          "id": "site-1761875291595",
+          "name": "Google.voice",
+          "url": "https://voice.google.com/u/0/messages",
+          "description": "网络电话",
+          "icon": "https://www.faviconextractor.com/favicon/voice.google.com"
+        },
+        {
+          "id": "site-1761875388987",
+          "name": "Instagram",
+          "url": "https://www.instagram.com/",
+          "description": "国外社交媒体",
+          "icon": "https://www.faviconextractor.com/favicon/www.instagram.com"
+        },
+        {
+          "id": "site-1761875436027",
+          "name": "推特",
+          "url": "https://x.com",
+          "description": "国外社交媒体",
+          "icon": "https://www.faviconextractor.com/favicon/x.com"
+        },
+        {
+          "id": "site-1761875513573",
+          "name": "气象云图，台风追踪",
+          "url": "https://zoom.earth/",
+          "description": "zoom.earth气象云图",
+          "icon": "https://www.faviconextractor.com/favicon/zoom.earth"
         }
       ]
     },
@@ -383,6 +418,13 @@ export const mockData = {
           "url": "https://www.coursera.org",
           "description": "在线课程平台",
           "icon": "/sitelogo/www.coursera.org.ico"
+        },
+        {
+          "id": "site-1761874893506",
+          "name": "z-library",
+          "url": "https://z-library.sk/",
+          "description": "全球最大的书籍下载站",
+          "icon": "https://www.faviconextractor.com/favicon/z-library.sk"
         }
       ]
     },
@@ -498,6 +540,21 @@ export const mockData = {
           "url": "https://www.feishu.cn",
           "description": "企业协作平台",
           "icon": "/sitelogo/www.feishu.cn.ico"
+        }
+      ]
+    },
+    {
+      "id": "category-1761874993035",
+      "icon": "🌐",
+      "name": "资源下载",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1761875059987",
+          "name": "果核剥壳",
+          "url": "https://www.ghxi.com/",
+          "description": "互联网净土",
+          "icon": "https://www.faviconextractor.com/favicon/www.ghxi.com"
         }
       ]
     }
