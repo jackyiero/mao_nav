@@ -504,6 +504,34 @@ export const mockData = {
           "url": "https://tv.0793.eu.org",
           "description": "游手好贤的自建TV",
           "icon": "https://www.faviconextractor.com/favicon/tv.0793.eu.org"
+        },
+        {
+          "id": "site-1762135970538",
+          "name": "switch520",
+          "url": "https://www.gamer520.com/",
+          "description": "游戏下载网",
+          "icon": "https://www.faviconextractor.com/favicon/www.gamer520.com"
+        },
+        {
+          "id": "site-1762136007698",
+          "name": "资源避难所",
+          "url": "https://www.flysheep6.com/",
+          "description": "游戏下载",
+          "icon": "https://www.faviconextractor.com/favicon/www.flysheep6.com"
+        },
+        {
+          "id": "site-1762136203922",
+          "name": "makerworld",
+          "url": "https://makerworld.com/zh",
+          "description": "3D打印模型下载",
+          "icon": "https://www.faviconextractor.com/favicon/makerworld.com"
+        },
+        {
+          "id": "site-1762136268194",
+          "name": "printables",
+          "url": "https://www.printables.com/",
+          "description": "3D模型资源",
+          "icon": "https://www.faviconextractor.com/favicon/www.printables.com"
         }
       ]
     },
@@ -559,6 +587,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "”贤“情逸致的导航🐱",
-  "_fileSha": "6eca78d1da2c1bc00f8084428f01383feeee8264"
+  "title": "”贤“情逸致的导航🐱"
 }
